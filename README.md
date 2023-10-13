@@ -1,7 +1,7 @@
 ## Run the Application
 
-Git Clone <repo>
-
+Git Clone repo
+#
 npm i
-
+#
 npm run dev
